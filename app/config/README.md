@@ -1,1 +1,2 @@
-This folder contains the config module.
+# Configuration
+This module is responsible for application configuration settings.
